@@ -1,0 +1,29 @@
+body{
+
+    background-color: blueviolet;
+    
+}
+ul {
+    list-style-type: initial;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%;
+    position: relative; /* Para dejarla fija a la izquierda */
+    overflow: auto; /* Desborde con desplazamiento */
+  }
+  li a {
+    display: block; /* Permite dar clic en toda el área */
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+h1{
+    
+    text-align: center;
+    color: rgb(109, 55, 5);
+}
