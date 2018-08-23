@@ -9,7 +9,7 @@ tr:nth-child(even) {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 5;
     width: 25%;
     height: 100%;
     position: fixed; /* Para dejarla fija a la izquierda */
